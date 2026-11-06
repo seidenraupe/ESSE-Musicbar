@@ -1,4 +1,4 @@
-:HL["/ESSE-Musicbar/_next/static/chunks/2d361cnoz47rs.css","style"]
+:HL["/ESSE-Musicbar/_next/static/chunks/1p7n0f54kcj8b.css","style"]
 :HL["/ESSE-Musicbar/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/ESSE-Musicbar/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/ESSE-Musicbar/_next/static/media/edb99fec956915f8-s.p.32sris142tqlb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"coaljazz-indigo-shift","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"programm","h":96,"c":"$Q2"}]]
-0:{"b":"L-fbgHZkwGtJjqH4thC1T","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"MXB-WPt85ECrUMghu8r-K","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
