@@ -1,0 +1,5 @@
+{
+  "name": "ESSE-Musicbar",
+  "install": "npm ci",
+  "start": "exec npm run dev"
+}
